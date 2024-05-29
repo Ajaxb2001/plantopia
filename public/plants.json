@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Fiddle Leaf Fig",
+    "image": "https://www.ugaoo.com/cdn/shop/files/1_cc65c975-7a6f-43d6-bb81-b56520e29bc7.jpg?v=1706609191&width=750",
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "name": "Snake Plant",
+    "image": "https://m.media-amazon.com/images/I/41ZhVEdGAlL.jpg",
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "name": "Monstera Deliciosa",
+    "image": "https://www.ugaoo.com/cdn/shop/files/1_44713654-fadc-43c3-868b-966b8c624bbf.jpg?v=1706608270",
+    "price": 34.99
+  },
+  {
+    "id": 4,
+    "name": "Spider Plant",
+    "image": "https://www.ugaoo.com/cdn/shop/files/chlorophytum-spider-plant-small-gift-hamper-32173447774340_1198d23a-dce7-4ecb-a362-3a0042f30a97.jpg?v=1684831915&width=750",
+    "price": 15.99
+  },
+  {
+    "id": 5,
+    "name": "Peace Lily",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoJl8I1OfZ01oVbHZuvT9QkmLRHLija7a095JD1Dm7UBom4bhZ",
+    "price": 24.99
+  },
+  {
+    "id": 6,
+    "name": "ZZ Plant",
+    "image": "https://m.media-amazon.com/images/I/51RA0juIgrL._AC_UF1000,1000_QL80_.jpg",
+    "price": 18.99
+  },
+  {
+    "id": 7,
+    "name": "Pothos",
+    "image": "https://pcfb.gumlet.io/images/articles/golden-pothos-in-hanging-basket.png?w=640&h=426&mode=crop&crop=smart&s=50e6ea2942716506fe3ebf1096ab111b",
+    "price": 12.99
+  },
+  {
+    "id": 8,
+    "name": "Rubber Plant",
+    "image": "https://abeautifulmess.com/wp-content/uploads/2023/06/rubbertree-10.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 9,
+    "name": "Aloe Vera",
+    "image": "https://unlimitedgreens.com/cdn/shop/products/Aloe-Vera-Website-Front.webp?v=1676457070",
+    "price": 17.99
+  },
+  {
+    "id": 10,
+    "name": "Boston Fern",
+    "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-nephrolepis-exaltata-bosteniensis-boston-fern-plant-1-737114.jpg?v=1679750689",
+    "price": 21.99
+  },
+  {
+    "id": 11,
+    "name": "Philodendron",
+    "image": "https://www.ugaoo.com/cdn/shop/files/DSC_2817.jpg?v=1706610628",
+    "price": 16.99
+  },
+  {
+    "id": 12,
+    "name": "Jade Plant",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/jade-plant-1-645157c445e14.jpg?crop=1.00xw:0.829xh;0,0&resize=1200:*",
+    "price": 22.99
+  }
+]

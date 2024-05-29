@@ -1,0 +1,50 @@
+.plant-item-container {
+  padding: 16px;
+  margin-bottom: 60px;
+  border: 2px solid transparent; /* Invisible border by default */
+  transition: border-color 0.3s ease;
+}
+
+.plant-item-container:hover {
+  border-color: #4CAF50; /* Change border color on hover */
+}
+.plant-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 300px; /* Fixed width */
+  height: 400px; /* Fixed height */
+  border: 1px solid #ccc; /* Optional border */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  margin: 16px; /* Optional margin */
+  overflow: hidden; /* Ensures the content doesn't overflow */
+}
+
+.plant-item-name {
+  margin: 16px 0;
+}
+
+.plant-item-image {
+  width: 100%; /* Makes image fill the card width */
+  height: auto; /* Keeps image aspect ratio */
+  max-height: 200px; /* Limits the image height */
+  object-fit: cover; /* Ensures the image covers the area, might crop */
+}
+
+.plant-item-price {
+  margin: 8px 0;
+}
+
+.plant-item-button {
+  padding: 8px 16px;
+  cursor: pointer;
+  background-color: #4CAF50; /* Example button color */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+.plant-item-button:hover{
+  background-color: rgb(27, 84, 16);
+}
